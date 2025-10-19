@@ -1,0 +1,1 @@
+{ name:mumbai-hacks,private:true,workspaces:[apps/*,services/*,packages/*],engines:{node:>=18},packageManager:npm@10}

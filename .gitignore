@@ -1,0 +1,12 @@
+node_modules
+.dist
+.next
+.env*
+coverage
+.DS_Store
+**/dist
+**/.venv
+**/__pycache__
+**/.pytest_cache
+**/.idea
+**/.vscode
